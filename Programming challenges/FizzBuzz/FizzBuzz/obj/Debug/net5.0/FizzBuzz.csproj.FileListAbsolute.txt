@@ -1,0 +1,15 @@
+/Users/joe/Projects/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/joe/Projects/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/joe/Projects/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/joe/Projects/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/joe/Projects/FizzBuzz/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/joe/Projects/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csprojAssemblyReference.cache
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/joe/Projects/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache

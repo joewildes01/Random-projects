@@ -1,0 +1,12 @@
+/Users/joe/Projects/BasicEncyption/BasicEncyption/bin/Debug/netcoreapp3.1/BasicEncyption.deps.json
+/Users/joe/Projects/BasicEncyption/BasicEncyption/bin/Debug/netcoreapp3.1/BasicEncyption.runtimeconfig.json
+/Users/joe/Projects/BasicEncyption/BasicEncyption/bin/Debug/netcoreapp3.1/BasicEncyption.runtimeconfig.dev.json
+/Users/joe/Projects/BasicEncyption/BasicEncyption/bin/Debug/netcoreapp3.1/BasicEncyption.dll
+/Users/joe/Projects/BasicEncyption/BasicEncyption/bin/Debug/netcoreapp3.1/BasicEncyption.pdb
+/Users/joe/Projects/BasicEncyption/BasicEncyption/obj/Debug/netcoreapp3.1/BasicEncyption.csprojAssemblyReference.cache
+/Users/joe/Projects/BasicEncyption/BasicEncyption/obj/Debug/netcoreapp3.1/BasicEncyption.AssemblyInfoInputs.cache
+/Users/joe/Projects/BasicEncyption/BasicEncyption/obj/Debug/netcoreapp3.1/BasicEncyption.AssemblyInfo.cs
+/Users/joe/Projects/BasicEncyption/BasicEncyption/obj/Debug/netcoreapp3.1/BasicEncyption.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/BasicEncyption/BasicEncyption/obj/Debug/netcoreapp3.1/BasicEncyption.dll
+/Users/joe/Projects/BasicEncyption/BasicEncyption/obj/Debug/netcoreapp3.1/BasicEncyption.pdb
+/Users/joe/Projects/BasicEncyption/BasicEncyption/obj/Debug/netcoreapp3.1/BasicEncyption.genruntimeconfig.cache

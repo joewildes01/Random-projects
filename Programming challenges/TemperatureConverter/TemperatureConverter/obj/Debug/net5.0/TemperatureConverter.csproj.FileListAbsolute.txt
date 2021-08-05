@@ -1,0 +1,15 @@
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.deps.json
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.runtimeconfig.json
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.runtimeconfig.dev.json
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.dll
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/bin/Debug/net5.0/ref/TemperatureConverter.dll
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/bin/Debug/net5.0/TemperatureConverter.pdb
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.csprojAssemblyReference.cache
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.AssemblyInfoInputs.cache
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.AssemblyInfo.cs
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.dll
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/ref/TemperatureConverter.dll
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.pdb
+/Users/joe/Projects/Programming challenges/TemperatureConverter/TemperatureConverter/obj/Debug/net5.0/TemperatureConverter.genruntimeconfig.cache

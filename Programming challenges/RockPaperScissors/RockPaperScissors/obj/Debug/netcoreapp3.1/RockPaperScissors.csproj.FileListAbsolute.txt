@@ -1,0 +1,12 @@
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/netcoreapp3.1/RockPaperScissors.deps.json
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/netcoreapp3.1/RockPaperScissors.runtimeconfig.json
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/netcoreapp3.1/RockPaperScissors.runtimeconfig.dev.json
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/netcoreapp3.1/RockPaperScissors.dll
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/netcoreapp3.1/RockPaperScissors.pdb
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/netcoreapp3.1/RockPaperScissors.csprojAssemblyReference.cache
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/netcoreapp3.1/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/netcoreapp3.1/RockPaperScissors.AssemblyInfo.cs
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/netcoreapp3.1/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/netcoreapp3.1/RockPaperScissors.dll
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/netcoreapp3.1/RockPaperScissors.pdb
+/Users/joe/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/netcoreapp3.1/RockPaperScissors.genruntimeconfig.cache

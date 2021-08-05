@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C7D309A6-938C-4259-B86A-99A0CCB1CA70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordGuess/Program.cs">
+    <Files>
+      <File FileName="WordGuess/Program.cs" Line="93" Column="1" />
+      <File FileName="WordGuess/Dictionary.cs" Line="12" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordGuess" expanded="True">
+            <Node name="WordGuess" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WordGuess PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

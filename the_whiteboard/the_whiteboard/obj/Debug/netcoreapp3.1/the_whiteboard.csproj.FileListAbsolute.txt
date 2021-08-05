@@ -1,0 +1,12 @@
+/Users/joe/Projects/the_whiteboard/the_whiteboard/bin/Debug/netcoreapp3.1/the_whiteboard.deps.json
+/Users/joe/Projects/the_whiteboard/the_whiteboard/bin/Debug/netcoreapp3.1/the_whiteboard.runtimeconfig.json
+/Users/joe/Projects/the_whiteboard/the_whiteboard/bin/Debug/netcoreapp3.1/the_whiteboard.runtimeconfig.dev.json
+/Users/joe/Projects/the_whiteboard/the_whiteboard/bin/Debug/netcoreapp3.1/the_whiteboard.dll
+/Users/joe/Projects/the_whiteboard/the_whiteboard/bin/Debug/netcoreapp3.1/the_whiteboard.pdb
+/Users/joe/Projects/the_whiteboard/the_whiteboard/obj/Debug/netcoreapp3.1/the_whiteboard.csprojAssemblyReference.cache
+/Users/joe/Projects/the_whiteboard/the_whiteboard/obj/Debug/netcoreapp3.1/the_whiteboard.AssemblyInfoInputs.cache
+/Users/joe/Projects/the_whiteboard/the_whiteboard/obj/Debug/netcoreapp3.1/the_whiteboard.AssemblyInfo.cs
+/Users/joe/Projects/the_whiteboard/the_whiteboard/obj/Debug/netcoreapp3.1/the_whiteboard.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/the_whiteboard/the_whiteboard/obj/Debug/netcoreapp3.1/the_whiteboard.dll
+/Users/joe/Projects/the_whiteboard/the_whiteboard/obj/Debug/netcoreapp3.1/the_whiteboard.pdb
+/Users/joe/Projects/the_whiteboard/the_whiteboard/obj/Debug/netcoreapp3.1/the_whiteboard.genruntimeconfig.cache

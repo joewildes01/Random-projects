@@ -1,0 +1,15 @@
+/Users/joe/Projects/HigherLower/HigherLower/bin/Debug/net5.0/HigherLower.deps.json
+/Users/joe/Projects/HigherLower/HigherLower/bin/Debug/net5.0/HigherLower.runtimeconfig.json
+/Users/joe/Projects/HigherLower/HigherLower/bin/Debug/net5.0/HigherLower.runtimeconfig.dev.json
+/Users/joe/Projects/HigherLower/HigherLower/bin/Debug/net5.0/HigherLower.dll
+/Users/joe/Projects/HigherLower/HigherLower/bin/Debug/net5.0/ref/HigherLower.dll
+/Users/joe/Projects/HigherLower/HigherLower/bin/Debug/net5.0/HigherLower.pdb
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.csprojAssemblyReference.cache
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.AssemblyInfoInputs.cache
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.AssemblyInfo.cs
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.dll
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/ref/HigherLower.dll
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.pdb
+/Users/joe/Projects/HigherLower/HigherLower/obj/Debug/net5.0/HigherLower.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/bin/Debug/net5.0/NameGenerator.deps.json
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/bin/Debug/net5.0/NameGenerator.runtimeconfig.json
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/bin/Debug/net5.0/NameGenerator.runtimeconfig.dev.json
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/bin/Debug/net5.0/NameGenerator.dll
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/bin/Debug/net5.0/ref/NameGenerator.dll
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/bin/Debug/net5.0/NameGenerator.pdb
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.csprojAssemblyReference.cache
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.AssemblyInfoInputs.cache
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.AssemblyInfo.cs
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.dll
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/ref/NameGenerator.dll
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.pdb
+/Users/joe/Projects/Programming challenges/NameGenerator/NameGenerator/obj/Debug/net5.0/NameGenerator.genruntimeconfig.cache

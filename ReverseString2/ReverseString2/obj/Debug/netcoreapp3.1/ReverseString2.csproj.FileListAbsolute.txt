@@ -1,0 +1,12 @@
+/Users/joe/Projects/ReverseString2/ReverseString2/bin/Debug/netcoreapp3.1/ReverseString2.deps.json
+/Users/joe/Projects/ReverseString2/ReverseString2/bin/Debug/netcoreapp3.1/ReverseString2.runtimeconfig.json
+/Users/joe/Projects/ReverseString2/ReverseString2/bin/Debug/netcoreapp3.1/ReverseString2.runtimeconfig.dev.json
+/Users/joe/Projects/ReverseString2/ReverseString2/bin/Debug/netcoreapp3.1/ReverseString2.dll
+/Users/joe/Projects/ReverseString2/ReverseString2/bin/Debug/netcoreapp3.1/ReverseString2.pdb
+/Users/joe/Projects/ReverseString2/ReverseString2/obj/Debug/netcoreapp3.1/ReverseString2.csprojAssemblyReference.cache
+/Users/joe/Projects/ReverseString2/ReverseString2/obj/Debug/netcoreapp3.1/ReverseString2.AssemblyInfoInputs.cache
+/Users/joe/Projects/ReverseString2/ReverseString2/obj/Debug/netcoreapp3.1/ReverseString2.AssemblyInfo.cs
+/Users/joe/Projects/ReverseString2/ReverseString2/obj/Debug/netcoreapp3.1/ReverseString2.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/ReverseString2/ReverseString2/obj/Debug/netcoreapp3.1/ReverseString2.dll
+/Users/joe/Projects/ReverseString2/ReverseString2/obj/Debug/netcoreapp3.1/ReverseString2.pdb
+/Users/joe/Projects/ReverseString2/ReverseString2/obj/Debug/netcoreapp3.1/ReverseString2.genruntimeconfig.cache

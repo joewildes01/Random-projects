@@ -1,0 +1,12 @@
+/Users/joe/Projects/RPGsimple/RPGsimple/bin/Debug/netcoreapp3.1/RPGsimple.deps.json
+/Users/joe/Projects/RPGsimple/RPGsimple/bin/Debug/netcoreapp3.1/RPGsimple.runtimeconfig.json
+/Users/joe/Projects/RPGsimple/RPGsimple/bin/Debug/netcoreapp3.1/RPGsimple.runtimeconfig.dev.json
+/Users/joe/Projects/RPGsimple/RPGsimple/bin/Debug/netcoreapp3.1/RPGsimple.dll
+/Users/joe/Projects/RPGsimple/RPGsimple/bin/Debug/netcoreapp3.1/RPGsimple.pdb
+/Users/joe/Projects/RPGsimple/RPGsimple/obj/Debug/netcoreapp3.1/RPGsimple.csprojAssemblyReference.cache
+/Users/joe/Projects/RPGsimple/RPGsimple/obj/Debug/netcoreapp3.1/RPGsimple.AssemblyInfoInputs.cache
+/Users/joe/Projects/RPGsimple/RPGsimple/obj/Debug/netcoreapp3.1/RPGsimple.AssemblyInfo.cs
+/Users/joe/Projects/RPGsimple/RPGsimple/obj/Debug/netcoreapp3.1/RPGsimple.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/RPGsimple/RPGsimple/obj/Debug/netcoreapp3.1/RPGsimple.dll
+/Users/joe/Projects/RPGsimple/RPGsimple/obj/Debug/netcoreapp3.1/RPGsimple.pdb
+/Users/joe/Projects/RPGsimple/RPGsimple/obj/Debug/netcoreapp3.1/RPGsimple.genruntimeconfig.cache

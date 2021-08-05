@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{856DB8AB-01BE-428F-92C1-34A93E4D3A19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseString/Program.cs">
+    <Files>
+      <File FileName="ReverseString/Program.cs" Line="16" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReverseString" expanded="True">
+            <Node name="ReverseString" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReverseString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

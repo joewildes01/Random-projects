@@ -1,0 +1,12 @@
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/bin/Debug/netcoreapp3.1/Magic8Ball.deps.json
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/bin/Debug/netcoreapp3.1/Magic8Ball.runtimeconfig.json
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/bin/Debug/netcoreapp3.1/Magic8Ball.runtimeconfig.dev.json
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/bin/Debug/netcoreapp3.1/Magic8Ball.dll
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/bin/Debug/netcoreapp3.1/Magic8Ball.pdb
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/obj/Debug/netcoreapp3.1/Magic8Ball.csprojAssemblyReference.cache
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/obj/Debug/netcoreapp3.1/Magic8Ball.AssemblyInfoInputs.cache
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/obj/Debug/netcoreapp3.1/Magic8Ball.AssemblyInfo.cs
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/obj/Debug/netcoreapp3.1/Magic8Ball.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/obj/Debug/netcoreapp3.1/Magic8Ball.dll
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/obj/Debug/netcoreapp3.1/Magic8Ball.pdb
+/Users/joe/Projects/Programming challenges/Magic8Ball/Magic8Ball/obj/Debug/netcoreapp3.1/Magic8Ball.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{69513A26-CAB3-4702-9771-DA526EE7AC27}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RPGsimple/Battle.cs">
+    <Files>
+      <File FileName="RPGsimple/Program.cs" Line="39" Column="47" />
+      <File FileName="RPGsimple/Hero.cs" Line="1" Column="1" />
+      <File FileName="RPGsimple/Enemy.cs" Line="1" Column="1" />
+      <File FileName="RPGsimple/Methods.cs" Line="1" Column="1" />
+      <File FileName="RPGsimple/Battle.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPGsimple" expanded="True">
+            <Node name="RPGsimple" expanded="True">
+              <Node name="Battle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RPGsimple PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

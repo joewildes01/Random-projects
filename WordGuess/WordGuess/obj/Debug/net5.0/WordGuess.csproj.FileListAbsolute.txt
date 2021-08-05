@@ -1,0 +1,15 @@
+/Users/joe/Projects/WordGuess/WordGuess/bin/Debug/net5.0/WordGuess.deps.json
+/Users/joe/Projects/WordGuess/WordGuess/bin/Debug/net5.0/WordGuess.runtimeconfig.json
+/Users/joe/Projects/WordGuess/WordGuess/bin/Debug/net5.0/WordGuess.runtimeconfig.dev.json
+/Users/joe/Projects/WordGuess/WordGuess/bin/Debug/net5.0/WordGuess.dll
+/Users/joe/Projects/WordGuess/WordGuess/bin/Debug/net5.0/ref/WordGuess.dll
+/Users/joe/Projects/WordGuess/WordGuess/bin/Debug/net5.0/WordGuess.pdb
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.csprojAssemblyReference.cache
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.AssemblyInfoInputs.cache
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.AssemblyInfo.cs
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.dll
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/ref/WordGuess.dll
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.pdb
+/Users/joe/Projects/WordGuess/WordGuess/obj/Debug/net5.0/WordGuess.genruntimeconfig.cache

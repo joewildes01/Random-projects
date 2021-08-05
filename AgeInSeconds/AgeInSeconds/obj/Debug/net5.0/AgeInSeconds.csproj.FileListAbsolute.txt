@@ -1,0 +1,15 @@
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/bin/Debug/net5.0/AgeInSeconds.deps.json
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/bin/Debug/net5.0/AgeInSeconds.runtimeconfig.json
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/bin/Debug/net5.0/AgeInSeconds.runtimeconfig.dev.json
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/bin/Debug/net5.0/AgeInSeconds.dll
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/bin/Debug/net5.0/ref/AgeInSeconds.dll
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/bin/Debug/net5.0/AgeInSeconds.pdb
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.csprojAssemblyReference.cache
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.AssemblyInfoInputs.cache
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.AssemblyInfo.cs
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.dll
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/ref/AgeInSeconds.dll
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.pdb
+/Users/joe/Projects/AgeInSeconds/AgeInSeconds/obj/Debug/net5.0/AgeInSeconds.genruntimeconfig.cache

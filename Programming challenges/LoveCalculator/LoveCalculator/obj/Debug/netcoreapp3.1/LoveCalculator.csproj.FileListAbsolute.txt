@@ -1,0 +1,12 @@
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/bin/Debug/netcoreapp3.1/LoveCalculator.deps.json
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/bin/Debug/netcoreapp3.1/LoveCalculator.runtimeconfig.json
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/bin/Debug/netcoreapp3.1/LoveCalculator.runtimeconfig.dev.json
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/bin/Debug/netcoreapp3.1/LoveCalculator.dll
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/bin/Debug/netcoreapp3.1/LoveCalculator.pdb
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/obj/Debug/netcoreapp3.1/LoveCalculator.csprojAssemblyReference.cache
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/obj/Debug/netcoreapp3.1/LoveCalculator.AssemblyInfoInputs.cache
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/obj/Debug/netcoreapp3.1/LoveCalculator.AssemblyInfo.cs
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/obj/Debug/netcoreapp3.1/LoveCalculator.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/obj/Debug/netcoreapp3.1/LoveCalculator.dll
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/obj/Debug/netcoreapp3.1/LoveCalculator.pdb
+/Users/joe/Projects/Programming challenges/LoveCalculator/LoveCalculator/obj/Debug/netcoreapp3.1/LoveCalculator.genruntimeconfig.cache

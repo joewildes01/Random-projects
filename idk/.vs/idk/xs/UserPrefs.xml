@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1ECA913C-8FCE-4442-87A0-80DE20D24BC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="idk.Android/MainActivity.cs">
+    <Files>
+      <File FileName="idk.Android/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="idk" expanded="True">
+            <Node name="idk.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.idk.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.idk FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.idk.iOS FirstBuild="True" />
+</Properties>

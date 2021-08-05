@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{374B36FF-693A-4729-A30B-E71689EF922B}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhoWantsToBeAMillionaire FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhoWantsToBeAMillionaire/Program.cs">
+    <Files>
+      <File FileName="WhoWantsToBeAMillionaire/Program.cs" Line="61" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhoWantsToBeAMillionaire" expanded="True">
+            <Node name="WhoWantsToBeAMillionaire" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

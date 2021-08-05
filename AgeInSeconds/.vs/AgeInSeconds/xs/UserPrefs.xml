@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C7B0E922-F475-486A-A685-70F57C99403E}|Default">
+  <MonoDevelop.Ide.ItemProperties.AgeInSeconds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AgeInSeconds/Program.cs">
+    <Files>
+      <File FileName="AgeInSeconds/Program.cs" Line="23" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AgeInSeconds" expanded="True">
+            <Node name="AgeInSeconds" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
